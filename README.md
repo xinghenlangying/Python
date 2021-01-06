@@ -1,4 +1,5 @@
 #Send intranet ip to wechat
+
 The sendip2wx.py is used to monitor the intranet ip,if your intranet ip changed,the sendip2wx.py will send your new intranet ip to your wechat's filehelper.And the sendip2wx.py runs background.
 
 
